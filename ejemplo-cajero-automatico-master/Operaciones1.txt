@@ -1,0 +1,8 @@
+
+Consulta de saldo 1000
+Consulta de saldo 1000
+Consulta Lista de Operaciones
+Retiro de Dinero: 500
+Consulta de saldo 500
+Retiro de Dinero: 20
+Consulta Lista de Operaciones
